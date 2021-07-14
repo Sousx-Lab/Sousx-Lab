@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a web developer I build smart & scalable applications using PHP Symfony and React JS stack. I like to exchange and share my knowledge with other developers.
+
+👯 Open To Work: PHP/Symfony / ReactJS developer role  
+😄 Pronouns: He/him . 
+
+[![Twitter follow @_NassimHattab](https://img.shields.io/twitter/follow/_NassimHattab?style=social)](https://twitter.com/_NassimHattab) &nbsp;
+[![Linkedin follow @nassim-hattab-413900142](https://img.shields.io/badge/Nassim-HATTAB-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nassim-hattab-413900142/)](https://www.linkedin.com/in/nassim-hattab-413900142/) &nbsp;
+[![Blog](https://img.shields.io/badge/Portofolio-nssmhttb.ovh-brightgreen)](https://nssmhttb.ovh) &nbsp;
+
 <!--
 **Sousx-Lab/Sousx-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
