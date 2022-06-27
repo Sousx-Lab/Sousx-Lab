@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a web developer I build smart & scalable applications using PHP Symfony and React JS stack. I like to exchange and share my knowledge with other developers.
+I am a web developer I build smart & scalable applications using PHP Symfony, NodeJS and React JS stack. I like to exchange and share my knowledge with other developers.
 
-👯 Open To Work: PHP/Symfony / ReactJS developer role  
+👯 Open To Work: PHP/Symfony / NodeJS / ReactJS developer role  
 😄 Pronouns: He/him . 
 
 [![Twitter follow @_NassimHattab](https://img.shields.io/twitter/follow/_NassimHattab?style=social)](https://twitter.com/_NassimHattab) &nbsp;
